@@ -40,7 +40,8 @@ $ pip install websockets
 
 ### クライアント側のリポジトリをクローン
 ```console
-$ cd $HOME/html && git clone git@github.com:ryota-k0827/io42-air-condition-monitor-web.git
+$ cd $HOME/html
+$ git clone git@github.com:ryota-k0827/io42-air-condition-monitor-web.git
 ```
 
 ### 実行
